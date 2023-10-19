@@ -1,0 +1,14 @@
+div{
+color:aliceblue;
+background-color: #3f4598;
+font-weight: bold;
+padding: 20px;
+text-align: center;
+border: 5px solid #357215;
+border-radius:15px;
+}
+p{
+padding: 20px 0px;
+margin-top: 25px;
+margin-bottom: 50px;
+}

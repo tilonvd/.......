@@ -1,0 +1,17 @@
+#ex1{
+    height: 200px;
+    width: 400px;
+    color: black;
+    background-color: lightblue;
+    border: 5px solid orange;
+    border-radius: 10px;
+}
+#ex2{
+    margin-top: 10px;
+    height: 200px;
+    width: 400px;
+    color:white;
+    background-color: blue;
+    border: 3px solid coral;
+    box-shadow: 5px 20px 17px red;
+}
